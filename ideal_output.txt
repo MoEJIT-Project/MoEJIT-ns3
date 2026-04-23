@@ -1,0 +1,1132 @@
+Loading Traces...
+Running Spine-Leaf Comparison test in mode: ideal | Nodes: 16
+init routes ...
+init routes end
+Installing Applications on 16 servers...
+At App3:mpi application of rank 0 total functions: 22
+Rank 0: MoE App Initializing...
+At App3:mpi application of rank 1 total functions: 22
+Rank 1: MoE App Initializing...
+At App3:mpi application of rank 2 total functions: 22
+Rank 2: MoE App Initializing...
+At App3:mpi application of rank 3 total functions: 22
+Rank 3: MoE App Initializing...
+At App3:mpi application of rank 4 total functions: 22
+Rank 4: MoE App Initializing...
+At App3:mpi application of rank 5 total functions: 22
+Rank 5: MoE App Initializing...
+At App3:mpi application of rank 6 total functions: 22
+Rank 6: MoE App Initializing...
+At App3:mpi application of rank 7 total functions: 22
+Rank 7: MoE App Initializing...
+At App3:mpi application of rank 8 total functions: 22
+Rank 8: MoE App Initializing...
+At App3:mpi application of rank 9 total functions: 22
+Rank 9: MoE App Initializing...
+At App3:mpi application of rank 10 total functions: 22
+Rank 10: MoE App Initializing...
+At App3:mpi application of rank 11 total functions: 22
+Rank 11: MoE App Initializing...
+At App3:mpi application of rank 12 total functions: 22
+Rank 12: MoE App Initializing...
+At App3:mpi application of rank 13 total functions: 22
+Rank 13: MoE App Initializing...
+At App3:mpi application of rank 14 total functions: 22
+Rank 14: MoE App Initializing...
+At App3:mpi application of rank 15 total functions: 22
+Rank 15: MoE App Initializing...
+Rank 4: MoE App Initialized.
+At App3:mpi application of rank 4 remaining functions: 21 now time: +287520ns
+Rank 5: MoE App Initialized.
+At App3:mpi application of rank 5 remaining functions: 21 now time: +300480ns
+Rank 6: MoE App Initialized.
+At App3:mpi application of rank 6 remaining functions: 21 now time: +326400ns
+Rank 3: MoE App Initialized.
+At App3:mpi application of rank 3 remaining functions: 21 now time: +333440ns
+Rank 7: MoE App Initialized.
+At App3:mpi application of rank 7 remaining functions: 21 now time: +352320ns
+Rank 2: MoE App Initialized.
+At App3:mpi application of rank 2 remaining functions: 21 now time: +361280ns
+Rank 8: MoE App Initialized.
+At App3:mpi application of rank 8 remaining functions: 21 now time: +369600ns
+Rank 1: MoE App Initialized.
+At App3:mpi application of rank 1 remaining functions: 21 now time: +384480ns
+Rank 0: MoE App Initialized.
+At App3:mpi application of rank 0 remaining functions: 21 now time: +389120ns
+Rank 12: MoE App Initialized.
+At App3:mpi application of rank 12 remaining functions: 21 now time: +400160ns
+Rank 9: MoE App Initialized.
+At App3:mpi application of rank 9 remaining functions: 21 now time: +404160ns
+Rank 10: MoE App Initialized.
+At App3:mpi application of rank 10 remaining functions: 21 now time: +425760ns
+Rank 13: MoE App Initialized.
+At App3:mpi application of rank 13 remaining functions: 21 now time: +426080ns
+Rank 11: MoE App Initialized.
+At App3:mpi application of rank 11 remaining functions: 21 now time: +438720ns
+Rank 14: MoE App Initialized.
+At App3:mpi application of rank 14 remaining functions: 21 now time: +439040ns
+Rank 15: MoE App Initialized.
+At App3:mpi application of rank 15 remaining functions: 21 now time: +447680ns
+Rank 12: Starting MoE AllToAllV Task 640 at 1s
+Rank 5: Starting MoE AllToAllV Task 105760 at 1s
+Rank 2: Starting MoE AllToAllV Task 201280 at 1s
+Rank 9: Starting MoE AllToAllV Task 105760 at 1s
+Rank 1: Starting MoE AllToAllV Task 105760 at 1s
+Rank 10: Starting MoE AllToAllV Task 201280 at 1.00001s
+Rank 13: Starting MoE AllToAllV Task 105760 at 1.00001s
+Rank 6: Starting MoE AllToAllV Task 201280 at 1.00001s
+Rank 4: Starting MoE AllToAllV Task 640 at 1.00001s
+Rank 15: Starting MoE AllToAllV Task 300640 at 1.00001s
+Rank 0: Starting MoE AllToAllV Task 640 at 1.00001s
+Rank 8: Starting MoE AllToAllV Task 640 at 1.00001s
+Rank 7: Starting MoE AllToAllV Task 300640 at 1.00001s
+Rank 3: Starting MoE AllToAllV Task 300640 at 1.00001s
+Rank 11: Starting MoE AllToAllV Task 300640 at 1.00002s
+Rank 14: Starting MoE AllToAllV Task 201280 at 1.00002s
+Rank 1: Task 105760 Finished. Duration: 34081 ns.
+At App3:mpi application of rank 1 remaining functions: 20 now time: +1.00004e+09ns
+Rank 5: Task 105760 Finished. Duration: 43521 ns.
+At App3:mpi application of rank 5 remaining functions: 20 now time: +1.00004e+09ns
+Rank 9: Task 105760 Finished. Duration: 46561 ns.
+At App3:mpi application of rank 9 remaining functions: 20 now time: +1.00005e+09ns
+Rank 13: Task 105760 Finished. Duration: 46561 ns.
+At App3:mpi application of rank 13 remaining functions: 20 now time: +1.00005e+09ns
+Rank 14: Task 201280 Finished. Duration: 42241 ns.
+At App3:mpi application of rank 14 remaining functions: 20 now time: +1.00006e+09ns
+Rank 7: Task 300640 Finished. Duration: 50881 ns.
+At App3:mpi application of rank 7 remaining functions: 20 now time: +1.00006e+09ns
+Rank 11: Task 300640 Finished. Duration: 45921 ns.
+At App3:mpi application of rank 11 remaining functions: 20 now time: +1.00006e+09ns
+Rank 3: Task 300640 Finished. Duration: 51761 ns.
+At App3:mpi application of rank 3 remaining functions: 20 now time: +1.00007e+09ns
+Rank 6: Task 201280 Finished. Duration: 61041 ns.
+At App3:mpi application of rank 6 remaining functions: 20 now time: +1.00007e+09ns
+Rank 10: Task 201280 Finished. Duration: 63281 ns.
+At App3:mpi application of rank 10 remaining functions: 20 now time: +1.00007e+09ns
+Rank 2: Task 201280 Finished. Duration: 68241 ns.
+At App3:mpi application of rank 2 remaining functions: 20 now time: +1.00007e+09ns
+Rank 15: Task 300640 Finished. Duration: 67441 ns.
+At App3:mpi application of rank 15 remaining functions: 20 now time: +1.00008e+09ns
+Rank 12: Task 640 Finished. Duration: 2942801 ns.
+At App3:mpi application of rank 12 remaining functions: 20 now time: +1.00294e+09ns
+Rank 8: Task 640 Finished. Duration: 4537361 ns.
+At App3:mpi application of rank 8 remaining functions: 20 now time: +1.00455e+09ns
+Rank 4: Task 640 Finished. Duration: 4964241 ns.
+At App3:mpi application of rank 4 remaining functions: 20 now time: +1.00497e+09ns
+Rank 0: Task 640 Finished. Duration: 10143041 ns.
+At App3:mpi application of rank 0 remaining functions: 20 now time: +1.01015e+09ns
+Rank 14: Starting MoE AllToAllV Task 201281 at 1.03378s
+Rank 6: Starting MoE AllToAllV Task 201281 at 1.03379s
+Rank 10: Starting MoE AllToAllV Task 201281 at 1.03379s
+Rank 2: Starting MoE AllToAllV Task 201281 at 1.03379s
+Rank 2: Task 201281 Finished. Duration: 26721 ns.
+At App3:mpi application of rank 2 remaining functions: 19 now time: +1.03382e+09ns
+Rank 6: Task 201281 Finished. Duration: 30561 ns.
+At App3:mpi application of rank 6 remaining functions: 19 now time: +1.03382e+09ns
+Rank 10: Task 201281 Finished. Duration: 33121 ns.
+At App3:mpi application of rank 10 remaining functions: 19 now time: +1.03382e+09ns
+Rank 14: Task 201281 Finished. Duration: 46561 ns.
+At App3:mpi application of rank 14 remaining functions: 19 now time: +1.03383e+09ns
+Rank 9: Starting MoE AllToAllV Task 105761 at 1.04107s
+Rank 13: Starting MoE AllToAllV Task 105761 at 1.04107s
+Rank 1: Starting MoE AllToAllV Task 105761 at 1.04108s
+Rank 5: Starting MoE AllToAllV Task 105761 at 1.04108s
+Rank 5: Task 105761 Finished. Duration: 26481 ns.
+At App3:mpi application of rank 5 remaining functions: 19 now time: +1.04111e+09ns
+Rank 1: Task 105761 Finished. Duration: 32161 ns.
+At App3:mpi application of rank 1 remaining functions: 19 now time: +1.04111e+09ns
+Rank 9: Task 105761 Finished. Duration: 44801 ns.
+At App3:mpi application of rank 9 remaining functions: 19 now time: +1.04112e+09ns
+Rank 13: Task 105761 Finished. Duration: 45041 ns.
+At App3:mpi application of rank 13 remaining functions: 19 now time: +1.04112e+09ns
+Rank 12: Starting MoE AllToAllV Task 641 at 1.04584s
+Rank 8: Starting MoE AllToAllV Task 641 at 1.04584s
+Rank 4: Starting MoE AllToAllV Task 641 at 1.04585s
+Rank 0: Starting MoE AllToAllV Task 641 at 1.04585s
+Rank 12: Task 641 Finished. Duration: 3510721 ns.
+At App3:mpi application of rank 12 remaining functions: 19 now time: +1.04935e+09ns
+Rank 8: Task 641 Finished. Duration: 4893681 ns.
+At App3:mpi application of rank 8 remaining functions: 19 now time: +1.05074e+09ns
+Rank 4: Task 641 Finished. Duration: 5000321 ns.
+At App3:mpi application of rank 4 remaining functions: 19 now time: +1.05085e+09ns
+Rank 15: Starting MoE AllToAllV Task 300641 at 1.05104s
+Rank 7: Starting MoE AllToAllV Task 300641 at 1.05104s
+Rank 11: Starting MoE AllToAllV Task 300641 at 1.05104s
+Rank 3: Starting MoE AllToAllV Task 300641 at 1.05105s
+Rank 7: Task 300641 Finished. Duration: 46333 ns.
+At App3:mpi application of rank 7 remaining functions: 19 now time: +1.05109e+09ns
+Rank 11: Task 300641 Finished. Duration: 66253 ns.
+At App3:mpi application of rank 11 remaining functions: 19 now time: +1.05111e+09ns
+Rank 15: Task 300641 Finished. Duration: 80173 ns.
+At App3:mpi application of rank 15 remaining functions: 19 now time: +1.05112e+09ns
+Rank 3: Task 300641 Finished. Duration: 2577853 ns.
+At App3:mpi application of rank 3 remaining functions: 19 now time: +1.05362e+09ns
+Rank 0: Task 641 Finished. Duration: 9644961 ns.
+At App3:mpi application of rank 0 remaining functions: 19 now time: +1.05549e+09ns
+Rank 2: Starting MoE AllToAllV Task 201282 at 1.06798s
+Rank 6: Starting MoE AllToAllV Task 201282 at 1.06798s
+Rank 10: Starting MoE AllToAllV Task 201282 at 1.06798s
+Rank 14: Starting MoE AllToAllV Task 201282 at 1.06799s
+Rank 2: Task 201282 Finished. Duration: 35521 ns.
+At App3:mpi application of rank 2 remaining functions: 18 now time: +1.06801e+09ns
+Rank 6: Task 201282 Finished. Duration: 37441 ns.
+At App3:mpi application of rank 6 remaining functions: 18 now time: +1.06802e+09ns
+Rank 14: Task 201282 Finished. Duration: 28001 ns.
+At App3:mpi application of rank 14 remaining functions: 18 now time: +1.06802e+09ns
+Rank 10: Task 201282 Finished. Duration: 37601 ns.
+At App3:mpi application of rank 10 remaining functions: 18 now time: +1.06802e+09ns
+Rank 5: Starting MoE AllToAllV Task 105762 at 1.08149s
+Rank 1: Starting MoE AllToAllV Task 105762 at 1.08149s
+Rank 9: Starting MoE AllToAllV Task 105762 at 1.0815s
+Rank 13: Starting MoE AllToAllV Task 105762 at 1.0815s
+Rank 1: Task 105762 Finished. Duration: 37841 ns.
+At App3:mpi application of rank 1 remaining functions: 18 now time: +1.08153e+09ns
+Rank 5: Task 105762 Finished. Duration: 39921 ns.
+At App3:mpi application of rank 5 remaining functions: 18 now time: +1.08153e+09ns
+Rank 9: Task 105762 Finished. Duration: 36321 ns.
+At App3:mpi application of rank 9 remaining functions: 18 now time: +1.08153e+09ns
+Rank 13: Task 105762 Finished. Duration: 34241 ns.
+At App3:mpi application of rank 13 remaining functions: 18 now time: +1.08153e+09ns
+Rank 4: Starting MoE AllToAllV Task 642 at 1.09186s
+Rank 12: Starting MoE AllToAllV Task 642 at 1.09186s
+Rank 0: Starting MoE AllToAllV Task 642 at 1.09186s
+Rank 8: Starting MoE AllToAllV Task 642 at 1.09187s
+Rank 2: Starting MoE AllToAllV Task 201283 at 1.09231s
+Rank 6: Starting MoE AllToAllV Task 201283 at 1.09232s
+Rank 14: Starting MoE AllToAllV Task 201283 at 1.09232s
+Rank 10: Starting MoE AllToAllV Task 201283 at 1.09232s
+Rank 10: Task 201283 Finished. Duration: 41937 ns.
+At App3:mpi application of rank 10 remaining functions: 17 now time: +1.09236e+09ns
+Rank 14: Task 201283 Finished. Duration: 50017 ns.
+At App3:mpi application of rank 14 remaining functions: 17 now time: +1.09237e+09ns
+Rank 6: Task 201283 Finished. Duration: 89217 ns.
+At App3:mpi application of rank 6 remaining functions: 17 now time: +1.0924e+09ns
+Rank 2: Task 201283 Finished. Duration: 939057 ns.
+At App3:mpi application of rank 2 remaining functions: 17 now time: +1.09325e+09ns
+Rank 12: Task 642 Finished. Duration: 3638721 ns.
+At App3:mpi application of rank 12 remaining functions: 18 now time: +1.0955e+09ns
+Rank 8: Task 642 Finished. Duration: 4701441 ns.
+At App3:mpi application of rank 8 remaining functions: 18 now time: +1.09657e+09ns
+Rank 4: Task 642 Finished. Duration: 5046961 ns.
+At App3:mpi application of rank 4 remaining functions: 18 now time: +1.09691e+09ns
+Rank 0: Task 642 Finished. Duration: 9655841 ns.
+At App3:mpi application of rank 0 remaining functions: 18 now time: +1.10152e+09ns
+Rank 7: Starting MoE AllToAllV Task 300642 at 1.10731s
+Rank 11: Starting MoE AllToAllV Task 300642 at 1.10731s
+Rank 15: Starting MoE AllToAllV Task 300642 at 1.10732s
+Rank 3: Starting MoE AllToAllV Task 300642 at 1.10732s
+Rank 3: Task 300642 Finished. Duration: 24081 ns.
+At App3:mpi application of rank 3 remaining functions: 18 now time: +1.10735e+09ns
+Rank 7: Task 300642 Finished. Duration: 40961 ns.
+At App3:mpi application of rank 7 remaining functions: 18 now time: +1.10735e+09ns
+Rank 11: Task 300642 Finished. Duration: 43041 ns.
+At App3:mpi application of rank 11 remaining functions: 18 now time: +1.10735e+09ns
+Rank 15: Task 300642 Finished. Duration: 39841 ns.
+At App3:mpi application of rank 15 remaining functions: 18 now time: +1.10736e+09ns
+Rank 5: Starting MoE AllToAllV Task 105763 at 1.12043s
+Rank 9: Starting MoE AllToAllV Task 105763 at 1.12043s
+Rank 13: Starting MoE AllToAllV Task 105763 at 1.12043s
+Rank 1: Starting MoE AllToAllV Task 105763 at 1.12045s
+Rank 1: Task 105763 Finished. Duration: 19921 ns.
+At App3:mpi application of rank 1 remaining functions: 17 now time: +1.12047e+09ns
+Rank 5: Task 105763 Finished. Duration: 41681 ns.
+At App3:mpi application of rank 5 remaining functions: 17 now time: +1.12047e+09ns
+Rank 9: Task 105763 Finished. Duration: 44401 ns.
+At App3:mpi application of rank 9 remaining functions: 17 now time: +1.12048e+09ns
+Rank 13: Task 105763 Finished. Duration: 48721 ns.
+At App3:mpi application of rank 13 remaining functions: 17 now time: +1.12048e+09ns
+Rank 2: Starting MoE AllToAllV Task 201284 at 1.12175s
+Rank 10: Starting MoE AllToAllV Task 201284 at 1.12176s
+Rank 6: Starting MoE AllToAllV Task 201284 at 1.12177s
+Rank 14: Starting MoE AllToAllV Task 201284 at 1.12177s
+Rank 6: Task 201284 Finished. Duration: 29201 ns.
+At App3:mpi application of rank 6 remaining functions: 16 now time: +1.12179e+09ns
+Rank 2: Task 201284 Finished. Duration: 44641 ns.
+At App3:mpi application of rank 2 remaining functions: 16 now time: +1.1218e+09ns
+Rank 10: Task 201284 Finished. Duration: 36081 ns.
+At App3:mpi application of rank 10 remaining functions: 16 now time: +1.1218e+09ns
+Rank 14: Task 201284 Finished. Duration: 31921 ns.
+At App3:mpi application of rank 14 remaining functions: 16 now time: +1.1218e+09ns
+Rank 12: Starting MoE AllToAllV Task 643 at 1.12987s
+Rank 0: Starting MoE AllToAllV Task 643 at 1.12987s
+Rank 4: Starting MoE AllToAllV Task 643 at 1.12988s
+Rank 8: Starting MoE AllToAllV Task 643 at 1.12988s
+Rank 8: Task 643 Finished. Duration: 3660241 ns.
+At App3:mpi application of rank 8 remaining functions: 17 now time: +1.13354e+09ns
+Rank 12: Task 643 Finished. Duration: 3746961 ns.
+At App3:mpi application of rank 12 remaining functions: 17 now time: +1.13362e+09ns
+Rank 4: Task 643 Finished. Duration: 5009681 ns.
+At App3:mpi application of rank 4 remaining functions: 17 now time: +1.13489e+09ns
+Rank 0: Task 643 Finished. Duration: 9641121 ns.
+At App3:mpi application of rank 0 remaining functions: 17 now time: +1.13952e+09ns
+Rank 2: Starting MoE AllToAllV Task 201285 at 1.14724s
+Rank 10: Starting MoE AllToAllV Task 201285 at 1.14724s
+Rank 14: Starting MoE AllToAllV Task 201285 at 1.14724s
+Rank 6: Starting MoE AllToAllV Task 201285 at 1.14725s
+Rank 6: Task 201285 Finished. Duration: 16081 ns.
+At App3:mpi application of rank 6 remaining functions: 15 now time: +1.14727e+09ns
+Rank 2: Task 201285 Finished. Duration: 42241 ns.
+At App3:mpi application of rank 2 remaining functions: 15 now time: +1.14728e+09ns
+Rank 10: Task 201285 Finished. Duration: 43441 ns.
+At App3:mpi application of rank 10 remaining functions: 15 now time: +1.14728e+09ns
+Rank 14: Task 201285 Finished. Duration: 47681 ns.
+At App3:mpi application of rank 14 remaining functions: 15 now time: +1.14729e+09ns
+Rank 5: Starting MoE AllToAllV Task 105764 at 1.16171s
+Rank 9: Starting MoE AllToAllV Task 105764 at 1.16172s
+Rank 13: Starting MoE AllToAllV Task 105764 at 1.16172s
+Rank 1: Starting MoE AllToAllV Task 105764 at 1.16173s
+Rank 1: Task 105764 Finished. Duration: 21681 ns.
+At App3:mpi application of rank 1 remaining functions: 16 now time: +1.16175e+09ns
+Rank 5: Task 105764 Finished. Duration: 43921 ns.
+At App3:mpi application of rank 5 remaining functions: 16 now time: +1.16176e+09ns
+Rank 9: Task 105764 Finished. Duration: 43201 ns.
+At App3:mpi application of rank 9 remaining functions: 16 now time: +1.16176e+09ns
+Rank 13: Task 105764 Finished. Duration: 39921 ns.
+At App3:mpi application of rank 13 remaining functions: 16 now time: +1.16176e+09ns
+Rank 3: Starting MoE AllToAllV Task 300643 at 1.16381s
+Rank 7: Starting MoE AllToAllV Task 300643 at 1.16381s
+Rank 11: Starting MoE AllToAllV Task 300643 at 1.16381s
+Rank 15: Starting MoE AllToAllV Task 300643 at 1.16382s
+Rank 3: Task 300643 Finished. Duration: 40961 ns.
+At App3:mpi application of rank 3 remaining functions: 17 now time: +1.16385e+09ns
+Rank 15: Task 300643 Finished. Duration: 33441 ns.
+At App3:mpi application of rank 15 remaining functions: 17 now time: +1.16385e+09ns
+Rank 7: Task 300643 Finished. Duration: 38161 ns.
+At App3:mpi application of rank 7 remaining functions: 17 now time: +1.16385e+09ns
+Rank 11: Task 300643 Finished. Duration: 35201 ns.
+At App3:mpi application of rank 11 remaining functions: 17 now time: +1.16385e+09ns
+Rank 12: Starting MoE AllToAllV Task 644 at 1.17327s
+Rank 8: Starting MoE AllToAllV Task 644 at 1.17327s
+Rank 4: Starting MoE AllToAllV Task 644 at 1.17328s
+Rank 0: Starting MoE AllToAllV Task 644 at 1.17328s
+Rank 8: Task 644 Finished. Duration: 3736961 ns.
+At App3:mpi application of rank 8 remaining functions: 16 now time: +1.17701e+09ns
+Rank 12: Task 644 Finished. Duration: 3842881 ns.
+At App3:mpi application of rank 12 remaining functions: 16 now time: +1.17711e+09ns
+Rank 14: Starting MoE AllToAllV Task 201286 at 1.17777s
+Rank 6: Starting MoE AllToAllV Task 201286 at 1.17777s
+Rank 2: Starting MoE AllToAllV Task 201286 at 1.17778s
+Rank 10: Starting MoE AllToAllV Task 201286 at 1.17778s
+Rank 10: Task 201286 Finished. Duration: 52355 ns.
+At App3:mpi application of rank 10 remaining functions: 14 now time: +1.17783e+09ns
+Rank 14: Task 201286 Finished. Duration: 77875 ns.
+At App3:mpi application of rank 14 remaining functions: 14 now time: +1.17784e+09ns
+Rank 6: Task 201286 Finished. Duration: 667315 ns.
+At App3:mpi application of rank 6 remaining functions: 14 now time: +1.17844e+09ns
+Rank 4: Task 644 Finished. Duration: 5190641 ns.
+At App3:mpi application of rank 4 remaining functions: 16 now time: +1.17847e+09ns
+Rank 2: Task 201286 Finished. Duration: 2790435 ns.
+At App3:mpi application of rank 2 remaining functions: 14 now time: +1.18057e+09ns
+Rank 0: Task 644 Finished. Duration: 9646161 ns.
+At App3:mpi application of rank 0 remaining functions: 16 now time: +1.18293e+09ns
+Rank 1: Starting MoE AllToAllV Task 105765 at 1.20289s
+Rank 5: Starting MoE AllToAllV Task 105765 at 1.2029s
+Rank 9: Starting MoE AllToAllV Task 105765 at 1.2029s
+Rank 13: Starting MoE AllToAllV Task 105765 at 1.2029s
+Rank 1: Task 105765 Finished. Duration: 43921 ns.
+At App3:mpi application of rank 1 remaining functions: 15 now time: +1.20293e+09ns
+Rank 13: Task 105765 Finished. Duration: 33681 ns.
+At App3:mpi application of rank 13 remaining functions: 15 now time: +1.20293e+09ns
+Rank 5: Task 105765 Finished. Duration: 38321 ns.
+At App3:mpi application of rank 5 remaining functions: 15 now time: +1.20293e+09ns
+Rank 9: Task 105765 Finished. Duration: 35281 ns.
+At App3:mpi application of rank 9 remaining functions: 15 now time: +1.20294e+09ns
+Rank 14: Starting MoE AllToAllV Task 201287 at 1.20992s
+Rank 2: Starting MoE AllToAllV Task 201287 at 1.20993s
+Rank 10: Starting MoE AllToAllV Task 201287 at 1.20993s
+Rank 6: Starting MoE AllToAllV Task 201287 at 1.20994s
+Rank 6: Task 201287 Finished. Duration: 23921 ns.
+At App3:mpi application of rank 6 remaining functions: 13 now time: +1.20996e+09ns
+Rank 2: Task 201287 Finished. Duration: 34241 ns.
+At App3:mpi application of rank 2 remaining functions: 13 now time: +1.20996e+09ns
+Rank 10: Task 201287 Finished. Duration: 31041 ns.
+At App3:mpi application of rank 10 remaining functions: 13 now time: +1.20997e+09ns
+Rank 14: Task 201287 Finished. Duration: 46321 ns.
+At App3:mpi application of rank 14 remaining functions: 13 now time: +1.20997e+09ns
+Rank 8: Starting MoE AllToAllV Task 645 at 1.21884s
+Rank 4: Starting MoE AllToAllV Task 645 at 1.21884s
+Rank 0: Starting MoE AllToAllV Task 645 at 1.21884s
+Rank 12: Starting MoE AllToAllV Task 645 at 1.21884s
+Rank 8: Task 645 Finished. Duration: 3782001 ns.
+At App3:mpi application of rank 8 remaining functions: 15 now time: +1.22262e+09ns
+Rank 12: Task 645 Finished. Duration: 3873361 ns.
+At App3:mpi application of rank 12 remaining functions: 15 now time: +1.22271e+09ns
+Rank 4: Task 645 Finished. Duration: 5356801 ns.
+At App3:mpi application of rank 4 remaining functions: 15 now time: +1.2242e+09ns
+Rank 0: Task 645 Finished. Duration: 9640721 ns.
+At App3:mpi application of rank 0 remaining functions: 15 now time: +1.22848e+09ns
+Rank 3: Starting MoE AllToAllV Task 300644 at 1.23707s
+Rank 15: Starting MoE AllToAllV Task 300644 at 1.23707s
+Rank 7: Starting MoE AllToAllV Task 300644 at 1.23707s
+Rank 11: Starting MoE AllToAllV Task 300644 at 1.23707s
+Rank 7: Task 300644 Finished. Duration: 34641 ns.
+At App3:mpi application of rank 7 remaining functions: 16 now time: +1.2371e+09ns
+Rank 11: Task 300644 Finished. Duration: 35921 ns.
+At App3:mpi application of rank 11 remaining functions: 16 now time: +1.23711e+09ns
+Rank 3: Task 300644 Finished. Duration: 38081 ns.
+At App3:mpi application of rank 3 remaining functions: 16 now time: +1.23711e+09ns
+Rank 15: Task 300644 Finished. Duration: 40721 ns.
+At App3:mpi application of rank 15 remaining functions: 16 now time: +1.23711e+09ns
+Rank 1: Starting MoE AllToAllV Task 105766 at 1.24259s
+Rank 13: Starting MoE AllToAllV Task 105766 at 1.24259s
+Rank 5: Starting MoE AllToAllV Task 105766 at 1.24259s
+Rank 9: Starting MoE AllToAllV Task 105766 at 1.2426s
+Rank 5: Task 105766 Finished. Duration: 34801 ns.
+At App3:mpi application of rank 5 remaining functions: 14 now time: +1.24263e+09ns
+Rank 9: Task 105766 Finished. Duration: 36321 ns.
+At App3:mpi application of rank 9 remaining functions: 14 now time: +1.24263e+09ns
+Rank 1: Task 105766 Finished. Duration: 38241 ns.
+At App3:mpi application of rank 1 remaining functions: 14 now time: +1.24263e+09ns
+Rank 13: Task 105766 Finished. Duration: 41041 ns.
+At App3:mpi application of rank 13 remaining functions: 14 now time: +1.24264e+09ns
+Rank 6: Starting MoE AllToAllV Task 201288 at 1.25402s
+Rank 2: Starting MoE AllToAllV Task 201288 at 1.25402s
+Rank 10: Starting MoE AllToAllV Task 201288 at 1.25403s
+Rank 14: Starting MoE AllToAllV Task 201288 at 1.25403s
+Rank 2: Task 201288 Finished. Duration: 32561 ns.
+At App3:mpi application of rank 2 remaining functions: 12 now time: +1.25406e+09ns
+Rank 6: Task 201288 Finished. Duration: 36081 ns.
+At App3:mpi application of rank 6 remaining functions: 12 now time: +1.25406e+09ns
+Rank 10: Task 201288 Finished. Duration: 36961 ns.
+At App3:mpi application of rank 10 remaining functions: 12 now time: +1.25406e+09ns
+Rank 14: Task 201288 Finished. Duration: 31921 ns.
+At App3:mpi application of rank 14 remaining functions: 12 now time: +1.25406e+09ns
+Rank 12: Starting MoE AllToAllV Task 646 at 1.27176s
+Rank 4: Starting MoE AllToAllV Task 646 at 1.27176s
+Rank 0: Starting MoE AllToAllV Task 646 at 1.27177s
+Rank 8: Starting MoE AllToAllV Task 646 at 1.27177s
+Rank 8: Task 646 Finished. Duration: 3879441 ns.
+At App3:mpi application of rank 8 remaining functions: 14 now time: +1.27565e+09ns
+Rank 12: Task 646 Finished. Duration: 3983761 ns.
+At App3:mpi application of rank 12 remaining functions: 14 now time: +1.27575e+09ns
+Rank 4: Task 646 Finished. Duration: 5380481 ns.
+At App3:mpi application of rank 4 remaining functions: 14 now time: +1.27714e+09ns
+Rank 13: Starting MoE AllToAllV Task 105767 at 1.27858s
+Rank 5: Starting MoE AllToAllV Task 105767 at 1.27859s
+Rank 9: Starting MoE AllToAllV Task 105767 at 1.27859s
+Rank 1: Starting MoE AllToAllV Task 105767 at 1.27859s
+Rank 5: Task 105767 Finished. Duration: 31921 ns.
+At App3:mpi application of rank 5 remaining functions: 13 now time: +1.27862e+09ns
+Rank 9: Task 105767 Finished. Duration: 32001 ns.
+At App3:mpi application of rank 9 remaining functions: 13 now time: +1.27862e+09ns
+Rank 13: Task 105767 Finished. Duration: 56641 ns.
+At App3:mpi application of rank 13 remaining functions: 13 now time: +1.27863e+09ns
+Rank 1: Task 105767 Finished. Duration: 2787001 ns.
+At App3:mpi application of rank 1 remaining functions: 13 now time: +1.28138e+09ns
+Rank 0: Task 646 Finished. Duration: 9636321 ns.
+At App3:mpi application of rank 0 remaining functions: 14 now time: +1.2814e+09ns
+Rank 2: Starting MoE AllToAllV Task 201289 at 1.28826s
+Rank 6: Starting MoE AllToAllV Task 201289 at 1.28826s
+Rank 10: Starting MoE AllToAllV Task 201289 at 1.28826s
+Rank 14: Starting MoE AllToAllV Task 201289 at 1.28826s
+Rank 2: Task 201289 Finished. Duration: 36081 ns.
+At App3:mpi application of rank 2 remaining functions: 11 now time: +1.28829e+09ns
+Rank 10: Task 201289 Finished. Duration: 31921 ns.
+At App3:mpi application of rank 10 remaining functions: 11 now time: +1.28829e+09ns
+Rank 6: Task 201289 Finished. Duration: 36481 ns.
+At App3:mpi application of rank 6 remaining functions: 11 now time: +1.28829e+09ns
+Rank 14: Task 201289 Finished. Duration: 32961 ns.
+At App3:mpi application of rank 14 remaining functions: 11 now time: +1.2883e+09ns
+Rank 7: Starting MoE AllToAllV Task 300645 at 1.28884s
+Rank 11: Starting MoE AllToAllV Task 300645 at 1.28885s
+Rank 3: Starting MoE AllToAllV Task 300645 at 1.28885s
+Rank 15: Starting MoE AllToAllV Task 300645 at 1.28885s
+Rank 7: Task 300645 Finished. Duration: 36481 ns.
+At App3:mpi application of rank 7 remaining functions: 15 now time: +1.28888e+09ns
+Rank 3: Task 300645 Finished. Duration: 34721 ns.
+At App3:mpi application of rank 3 remaining functions: 15 now time: +1.28888e+09ns
+Rank 11: Task 300645 Finished. Duration: 38241 ns.
+At App3:mpi application of rank 11 remaining functions: 15 now time: +1.28888e+09ns
+Rank 15: Task 300645 Finished. Duration: 36641 ns.
+At App3:mpi application of rank 15 remaining functions: 15 now time: +1.28889e+09ns
+Rank 4: Starting MoE AllToAllV Task 647 at 1.31565s
+Rank 0: Starting MoE AllToAllV Task 647 at 1.31565s
+Rank 12: Starting MoE AllToAllV Task 647 at 1.31565s
+Rank 8: Starting MoE AllToAllV Task 647 at 1.31565s
+Rank 1: Starting MoE AllToAllV Task 105768 at 1.3163s
+Rank 5: Starting MoE AllToAllV Task 105768 at 1.3163s
+Rank 9: Starting MoE AllToAllV Task 105768 at 1.3163s
+Rank 13: Starting MoE AllToAllV Task 105768 at 1.31631s
+Rank 9: Task 105768 Finished. Duration: 86086 ns.
+At App3:mpi application of rank 9 remaining functions: 12 now time: +1.31639e+09ns
+Rank 13: Task 105768 Finished. Duration: 82966 ns.
+At App3:mpi application of rank 13 remaining functions: 12 now time: +1.3164e+09ns
+Rank 5: Task 105768 Finished. Duration: 128246 ns.
+At App3:mpi application of rank 5 remaining functions: 12 now time: +1.31643e+09ns
+Rank 1: Task 105768 Finished. Duration: 1406926 ns.
+At App3:mpi application of rank 1 remaining functions: 12 now time: +1.31771e+09ns
+Rank 8: Task 647 Finished. Duration: 3927361 ns.
+At App3:mpi application of rank 8 remaining functions: 13 now time: +1.31958e+09ns
+Rank 12: Task 647 Finished. Duration: 4040401 ns.
+At App3:mpi application of rank 12 remaining functions: 13 now time: +1.31969e+09ns
+Rank 4: Task 647 Finished. Duration: 5779121 ns.
+At App3:mpi application of rank 4 remaining functions: 13 now time: +1.32143e+09ns
+Rank 0: Task 647 Finished. Duration: 9653761 ns.
+At App3:mpi application of rank 0 remaining functions: 13 now time: +1.3253e+09ns
+Rank 2: Starting MoE AllToAllV Task 201290 at 1.32967s
+Rank 10: Starting MoE AllToAllV Task 201290 at 1.32967s
+Rank 6: Starting MoE AllToAllV Task 201290 at 1.32968s
+Rank 14: Starting MoE AllToAllV Task 201290 at 1.32968s
+Rank 6: Task 201290 Finished. Duration: 31921 ns.
+At App3:mpi application of rank 6 remaining functions: 10 now time: +1.32971e+09ns
+Rank 10: Task 201290 Finished. Duration: 33041 ns.
+At App3:mpi application of rank 10 remaining functions: 10 now time: +1.32971e+09ns
+Rank 2: Task 201290 Finished. Duration: 36241 ns.
+At App3:mpi application of rank 2 remaining functions: 10 now time: +1.32971e+09ns
+Rank 14: Task 201290 Finished. Duration: 36081 ns.
+At App3:mpi application of rank 14 remaining functions: 10 now time: +1.32971e+09ns
+Rank 1: Starting MoE AllToAllV Task 105769 at 1.35305s
+Rank 9: Starting MoE AllToAllV Task 105769 at 1.35305s
+Rank 5: Starting MoE AllToAllV Task 105769 at 1.35305s
+Rank 13: Starting MoE AllToAllV Task 105769 at 1.35306s
+Rank 5: Task 105769 Finished. Duration: 35601 ns.
+At App3:mpi application of rank 5 remaining functions: 11 now time: +1.35309e+09ns
+Rank 1: Task 105769 Finished. Duration: 40961 ns.
+At App3:mpi application of rank 1 remaining functions: 11 now time: +1.35309e+09ns
+Rank 13: Task 105769 Finished. Duration: 32641 ns.
+At App3:mpi application of rank 13 remaining functions: 11 now time: +1.35309e+09ns
+Rank 9: Task 105769 Finished. Duration: 39921 ns.
+At App3:mpi application of rank 9 remaining functions: 11 now time: +1.35309e+09ns
+Rank 15: Starting MoE AllToAllV Task 300646 at 1.36203s
+Rank 7: Starting MoE AllToAllV Task 300646 at 1.36204s
+Rank 3: Starting MoE AllToAllV Task 300646 at 1.36204s
+Rank 11: Starting MoE AllToAllV Task 300646 at 1.36204s
+Rank 3: Task 300646 Finished. Duration: 30881 ns.
+At App3:mpi application of rank 3 remaining functions: 14 now time: +1.36207e+09ns
+Rank 7: Task 300646 Finished. Duration: 33361 ns.
+At App3:mpi application of rank 7 remaining functions: 14 now time: +1.36207e+09ns
+Rank 11: Task 300646 Finished. Duration: 29921 ns.
+At App3:mpi application of rank 11 remaining functions: 14 now time: +1.36207e+09ns
+Rank 15: Task 300646 Finished. Duration: 56161 ns.
+At App3:mpi application of rank 15 remaining functions: 14 now time: +1.36208e+09ns
+Rank 10: Starting MoE AllToAllV Task 201291 at 1.36587s
+Rank 2: Starting MoE AllToAllV Task 201291 at 1.36587s
+Rank 14: Starting MoE AllToAllV Task 201291 at 1.36587s
+Rank 6: Starting MoE AllToAllV Task 201291 at 1.36589s
+Rank 6: Task 201291 Finished. Duration: 13041 ns.
+At App3:mpi application of rank 6 remaining functions: 9 now time: +1.3659e+09ns
+Rank 2: Task 201291 Finished. Duration: 42241 ns.
+At App3:mpi application of rank 2 remaining functions: 9 now time: +1.36591e+09ns
+Rank 10: Task 201291 Finished. Duration: 46481 ns.
+At App3:mpi application of rank 10 remaining functions: 9 now time: +1.36591e+09ns
+Rank 14: Task 201291 Finished. Duration: 46641 ns.
+At App3:mpi application of rank 14 remaining functions: 9 now time: +1.36592e+09ns
+Rank 4: Starting MoE AllToAllV Task 648 at 1.36783s
+Rank 12: Starting MoE AllToAllV Task 648 at 1.36783s
+Rank 8: Starting MoE AllToAllV Task 648 at 1.36784s
+Rank 0: Starting MoE AllToAllV Task 648 at 1.36785s
+Rank 12: Task 648 Finished. Duration: 4161521 ns.
+At App3:mpi application of rank 12 remaining functions: 12 now time: +1.372e+09ns
+Rank 8: Task 648 Finished. Duration: 4184081 ns.
+At App3:mpi application of rank 8 remaining functions: 12 now time: +1.37203e+09ns
+Rank 4: Task 648 Finished. Duration: 6234081 ns.
+At App3:mpi application of rank 4 remaining functions: 12 now time: +1.37406e+09ns
+Rank 0: Task 648 Finished. Duration: 9626401 ns.
+At App3:mpi application of rank 0 remaining functions: 12 now time: +1.37747e+09ns
+Rank 5: Starting MoE AllToAllV Task 105770 at 1.39281s
+Rank 1: Starting MoE AllToAllV Task 105770 at 1.39281s
+Rank 13: Starting MoE AllToAllV Task 105770 at 1.39281s
+Rank 9: Starting MoE AllToAllV Task 105770 at 1.39281s
+Rank 5: Task 105770 Finished. Duration: 37521 ns.
+At App3:mpi application of rank 5 remaining functions: 10 now time: +1.39284e+09ns
+Rank 1: Task 105770 Finished. Duration: 35761 ns.
+At App3:mpi application of rank 1 remaining functions: 10 now time: +1.39284e+09ns
+Rank 9: Task 105770 Finished. Duration: 34401 ns.
+At App3:mpi application of rank 9 remaining functions: 10 now time: +1.39284e+09ns
+Rank 13: Task 105770 Finished. Duration: 40161 ns.
+At App3:mpi application of rank 13 remaining functions: 10 now time: +1.39285e+09ns
+Rank 2: Starting MoE AllToAllV Task 201292 at 1.40483s
+Rank 10: Starting MoE AllToAllV Task 201292 at 1.40483s
+Rank 14: Starting MoE AllToAllV Task 201292 at 1.40484s
+Rank 6: Starting MoE AllToAllV Task 201292 at 1.40484s
+Rank 6: Task 201292 Finished. Duration: 26481 ns.
+At App3:mpi application of rank 6 remaining functions: 8 now time: +1.40487e+09ns
+Rank 2: Task 201292 Finished. Duration: 37281 ns.
+At App3:mpi application of rank 2 remaining functions: 8 now time: +1.40487e+09ns
+Rank 14: Task 201292 Finished. Duration: 33041 ns.
+At App3:mpi application of rank 14 remaining functions: 8 now time: +1.40487e+09ns
+Rank 10: Task 201292 Finished. Duration: 37521 ns.
+At App3:mpi application of rank 10 remaining functions: 8 now time: +1.40487e+09ns
+Rank 3: Starting MoE AllToAllV Task 300647 at 1.40845s
+Rank 7: Starting MoE AllToAllV Task 300647 at 1.40845s
+Rank 11: Starting MoE AllToAllV Task 300647 at 1.40845s
+Rank 15: Starting MoE AllToAllV Task 300647 at 1.40846s
+Rank 3: Task 300647 Finished. Duration: 38961 ns.
+At App3:mpi application of rank 3 remaining functions: 13 now time: +1.40849e+09ns
+Rank 7: Task 300647 Finished. Duration: 38801 ns.
+At App3:mpi application of rank 7 remaining functions: 13 now time: +1.40849e+09ns
+Rank 15: Task 300647 Finished. Duration: 30881 ns.
+At App3:mpi application of rank 15 remaining functions: 13 now time: +1.40849e+09ns
+Rank 11: Task 300647 Finished. Duration: 42881 ns.
+At App3:mpi application of rank 11 remaining functions: 13 now time: +1.4085e+09ns
+Rank 0: Starting MoE AllToAllV Task 649 at 1.41039s
+Rank 12: Starting MoE AllToAllV Task 649 at 1.4104s
+Rank 4: Starting MoE AllToAllV Task 649 at 1.41041s
+Rank 8: Starting MoE AllToAllV Task 649 at 1.41041s
+Rank 12: Task 649 Finished. Duration: 4298401 ns.
+At App3:mpi application of rank 12 remaining functions: 11 now time: +1.4147e+09ns
+Rank 8: Task 649 Finished. Duration: 4366001 ns.
+At App3:mpi application of rank 8 remaining functions: 11 now time: +1.41478e+09ns
+Rank 4: Task 649 Finished. Duration: 6572881 ns.
+At App3:mpi application of rank 4 remaining functions: 11 now time: +1.41698e+09ns
+Rank 0: Task 649 Finished. Duration: 9645521 ns.
+At App3:mpi application of rank 0 remaining functions: 11 now time: +1.42004e+09ns
+Rank 5: Starting MoE AllToAllV Task 105771 at 1.43008s
+Rank 1: Starting MoE AllToAllV Task 105771 at 1.43008s
+Rank 9: Starting MoE AllToAllV Task 105771 at 1.43008s
+Rank 13: Starting MoE AllToAllV Task 105771 at 1.43009s
+Rank 5: Task 105771 Finished. Duration: 35921 ns.
+At App3:mpi application of rank 5 remaining functions: 9 now time: +1.43012e+09ns
+Rank 1: Task 105771 Finished. Duration: 37521 ns.
+At App3:mpi application of rank 1 remaining functions: 9 now time: +1.43012e+09ns
+Rank 9: Task 105771 Finished. Duration: 38401 ns.
+At App3:mpi application of rank 9 remaining functions: 9 now time: +1.43012e+09ns
+Rank 13: Task 105771 Finished. Duration: 36481 ns.
+At App3:mpi application of rank 13 remaining functions: 9 now time: +1.43012e+09ns
+Rank 6: Starting MoE AllToAllV Task 201293 at 1.43937s
+Rank 2: Starting MoE AllToAllV Task 201293 at 1.43937s
+Rank 14: Starting MoE AllToAllV Task 201293 at 1.43937s
+Rank 10: Starting MoE AllToAllV Task 201293 at 1.43937s
+Rank 2: Task 201293 Finished. Duration: 32321 ns.
+At App3:mpi application of rank 2 remaining functions: 7 now time: +1.4394e+09ns
+Rank 10: Task 201293 Finished. Duration: 31681 ns.
+At App3:mpi application of rank 10 remaining functions: 7 now time: +1.4394e+09ns
+Rank 6: Task 201293 Finished. Duration: 37281 ns.
+At App3:mpi application of rank 6 remaining functions: 7 now time: +1.4394e+09ns
+Rank 14: Task 201293 Finished. Duration: 35281 ns.
+At App3:mpi application of rank 14 remaining functions: 7 now time: +1.43941e+09ns
+Rank 8: Starting MoE AllToAllV Task 650 at 1.4639s
+Rank 12: Starting MoE AllToAllV Task 650 at 1.46391s
+Rank 4: Starting MoE AllToAllV Task 650 at 1.46391s
+Rank 0: Starting MoE AllToAllV Task 650 at 1.46391s
+Rank 12: Task 650 Finished. Duration: 4481681 ns.
+At App3:mpi application of rank 12 remaining functions: 10 now time: +1.46839e+09ns
+Rank 8: Task 650 Finished. Duration: 4601441 ns.
+At App3:mpi application of rank 8 remaining functions: 10 now time: +1.46851e+09ns
+Rank 4: Task 650 Finished. Duration: 5131601 ns.
+At App3:mpi application of rank 4 remaining functions: 10 now time: +1.46904e+09ns
+Rank 5: Starting MoE AllToAllV Task 105772 at 1.46936s
+Rank 1: Starting MoE AllToAllV Task 105772 at 1.46936s
+Rank 9: Starting MoE AllToAllV Task 105772 at 1.46936s
+Rank 13: Starting MoE AllToAllV Task 105772 at 1.46936s
+Rank 5: Task 105772 Finished. Duration: 38401 ns.
+At App3:mpi application of rank 5 remaining functions: 8 now time: +1.4694e+09ns
+Rank 9: Task 105772 Finished. Duration: 36481 ns.
+At App3:mpi application of rank 9 remaining functions: 8 now time: +1.4694e+09ns
+Rank 13: Task 105772 Finished. Duration: 36961 ns.
+At App3:mpi application of rank 13 remaining functions: 8 now time: +1.4694e+09ns
+Rank 15: Starting MoE AllToAllV Task 300648 at 1.47345s
+Rank 11: Starting MoE AllToAllV Task 300648 at 1.47346s
+Rank 3: Starting MoE AllToAllV Task 300648 at 1.47347s
+Rank 7: Starting MoE AllToAllV Task 300648 at 1.47347s
+Rank 7: Task 300648 Finished. Duration: 22321 ns.
+At App3:mpi application of rank 7 remaining functions: 12 now time: +1.4735e+09ns
+Rank 11: Task 300648 Finished. Duration: 46961 ns.
+At App3:mpi application of rank 11 remaining functions: 12 now time: +1.4735e+09ns
+Rank 15: Task 300648 Finished. Duration: 54401 ns.
+At App3:mpi application of rank 15 remaining functions: 12 now time: +1.47351e+09ns
+Rank 1: Task 105772 Finished. Duration: 4164886 ns.
+At App3:mpi application of rank 1 remaining functions: 8 now time: +1.47353e+09ns
+Rank 3: Task 300648 Finished. Duration: 71135 ns.
+At App3:mpi application of rank 3 remaining functions: 12 now time: +1.47354e+09ns
+Rank 0: Task 650 Finished. Duration: 9641201 ns.
+At App3:mpi application of rank 0 remaining functions: 10 now time: +1.47355e+09ns
+Rank 2: Starting MoE AllToAllV Task 201294 at 1.4859s
+Rank 10: Starting MoE AllToAllV Task 201294 at 1.4859s
+Rank 6: Starting MoE AllToAllV Task 201294 at 1.4859s
+Rank 14: Starting MoE AllToAllV Task 201294 at 1.48591s
+Rank 6: Task 201294 Finished. Duration: 31921 ns.
+At App3:mpi application of rank 6 remaining functions: 6 now time: +1.48594e+09ns
+Rank 2: Task 201294 Finished. Duration: 36881 ns.
+At App3:mpi application of rank 2 remaining functions: 6 now time: +1.48594e+09ns
+Rank 10: Task 201294 Finished. Duration: 35281 ns.
+At App3:mpi application of rank 10 remaining functions: 6 now time: +1.48594e+09ns
+Rank 14: Task 201294 Finished. Duration: 33121 ns.
+At App3:mpi application of rank 14 remaining functions: 6 now time: +1.48594e+09ns
+Rank 4: Starting MoE AllToAllV Task 651 at 1.50469s
+Rank 8: Starting MoE AllToAllV Task 651 at 1.50469s
+Rank 12: Starting MoE AllToAllV Task 651 at 1.50469s
+Rank 0: Starting MoE AllToAllV Task 651 at 1.5047s
+Rank 5: Starting MoE AllToAllV Task 105773 at 1.50616s
+Rank 9: Starting MoE AllToAllV Task 105773 at 1.50616s
+Rank 13: Starting MoE AllToAllV Task 105773 at 1.50616s
+Rank 1: Starting MoE AllToAllV Task 105773 at 1.50617s
+Rank 5: Task 105773 Finished. Duration: 74309 ns.
+At App3:mpi application of rank 5 remaining functions: 7 now time: +1.50623e+09ns
+Rank 13: Task 105773 Finished. Duration: 72549 ns.
+At App3:mpi application of rank 13 remaining functions: 7 now time: +1.50623e+09ns
+Rank 9: Task 105773 Finished. Duration: 109189 ns.
+At App3:mpi application of rank 9 remaining functions: 7 now time: +1.50627e+09ns
+Rank 1: Task 105773 Finished. Duration: 3031504 ns.
+At App3:mpi application of rank 1 remaining functions: 7 now time: +1.5092e+09ns
+Rank 12: Task 651 Finished. Duration: 4619441 ns.
+At App3:mpi application of rank 12 remaining functions: 9 now time: +1.50931e+09ns
+Rank 8: Task 651 Finished. Duration: 4797041 ns.
+At App3:mpi application of rank 8 remaining functions: 9 now time: +1.50949e+09ns
+Rank 4: Task 651 Finished. Duration: 5349681 ns.
+At App3:mpi application of rank 4 remaining functions: 9 now time: +1.51004e+09ns
+Rank 11: Starting MoE AllToAllV Task 300649 at 1.51172s
+Rank 15: Starting MoE AllToAllV Task 300649 at 1.51173s
+Rank 7: Starting MoE AllToAllV Task 300649 at 1.51174s
+Rank 3: Starting MoE AllToAllV Task 300649 at 1.51174s
+Rank 7: Task 300649 Finished. Duration: 31135 ns.
+At App3:mpi application of rank 7 remaining functions: 11 now time: +1.51177e+09ns
+Rank 11: Task 300649 Finished. Duration: 47601 ns.
+At App3:mpi application of rank 11 remaining functions: 11 now time: +1.51177e+09ns
+Rank 15: Task 300649 Finished. Duration: 46575 ns.
+At App3:mpi application of rank 15 remaining functions: 11 now time: +1.51177e+09ns
+Rank 6: Starting MoE AllToAllV Task 201295 at 1.51204s
+Rank 2: Starting MoE AllToAllV Task 201295 at 1.51204s
+Rank 10: Starting MoE AllToAllV Task 201295 at 1.51204s
+Rank 14: Starting MoE AllToAllV Task 201295 at 1.51204s
+Rank 6: Task 201295 Finished. Duration: 35281 ns.
+At App3:mpi application of rank 6 remaining functions: 5 now time: +1.51207e+09ns
+Rank 10: Task 201295 Finished. Duration: 33201 ns.
+At App3:mpi application of rank 10 remaining functions: 5 now time: +1.51207e+09ns
+Rank 14: Task 201295 Finished. Duration: 36081 ns.
+At App3:mpi application of rank 14 remaining functions: 5 now time: +1.51208e+09ns
+Rank 3: Task 300649 Finished. Duration: 2582268 ns.
+At App3:mpi application of rank 3 remaining functions: 11 now time: +1.51433e+09ns
+Rank 2: Task 201295 Finished. Duration: 2301297 ns.
+At App3:mpi application of rank 2 remaining functions: 5 now time: +1.51434e+09ns
+Rank 0: Task 651 Finished. Duration: 9653201 ns.
+At App3:mpi application of rank 0 remaining functions: 9 now time: +1.51435e+09ns
+Rank 1: Starting MoE AllToAllV Task 105774 at 1.5443s
+Rank 9: Starting MoE AllToAllV Task 105774 at 1.54431s
+Rank 5: Starting MoE AllToAllV Task 105774 at 1.54431s
+Rank 13: Starting MoE AllToAllV Task 105774 at 1.54431s
+Rank 5: Task 105774 Finished. Duration: 32641 ns.
+At App3:mpi application of rank 5 remaining functions: 6 now time: +1.54434e+09ns
+Rank 1: Task 105774 Finished. Duration: 48721 ns.
+At App3:mpi application of rank 1 remaining functions: 6 now time: +1.54435e+09ns
+Rank 13: Task 105774 Finished. Duration: 32321 ns.
+At App3:mpi application of rank 13 remaining functions: 6 now time: +1.54435e+09ns
+Rank 9: Task 105774 Finished. Duration: 40321 ns.
+At App3:mpi application of rank 9 remaining functions: 6 now time: +1.54435e+09ns
+Rank 2: Starting MoE AllToAllV Task 201296 at 1.54442s
+Rank 6: Starting MoE AllToAllV Task 201296 at 1.54443s
+Rank 10: Starting MoE AllToAllV Task 201296 at 1.54443s
+Rank 14: Starting MoE AllToAllV Task 201296 at 1.54444s
+Rank 6: Task 201296 Finished. Duration: 33201 ns.
+At App3:mpi application of rank 6 remaining functions: 4 now time: +1.54446e+09ns
+Rank 2: Task 201296 Finished. Duration: 46145 ns.
+At App3:mpi application of rank 2 remaining functions: 4 now time: +1.54447e+09ns
+Rank 14: Task 201296 Finished. Duration: 30881 ns.
+At App3:mpi application of rank 14 remaining functions: 4 now time: +1.54447e+09ns
+Rank 10: Task 201296 Finished. Duration: 36001 ns.
+At App3:mpi application of rank 10 remaining functions: 4 now time: +1.54447e+09ns
+Rank 3: Starting MoE AllToAllV Task 300650 at 1.55923s
+Rank 7: Starting MoE AllToAllV Task 300650 at 1.55923s
+Rank 11: Starting MoE AllToAllV Task 300650 at 1.55923s
+Rank 15: Starting MoE AllToAllV Task 300650 at 1.55923s
+Rank 3: Task 300650 Finished. Duration: 38854 ns.
+At App3:mpi application of rank 3 remaining functions: 10 now time: +1.55926e+09ns
+Rank 15: Task 300650 Finished. Duration: 31388 ns.
+At App3:mpi application of rank 15 remaining functions: 10 now time: +1.55927e+09ns
+Rank 7: Task 300650 Finished. Duration: 39987 ns.
+At App3:mpi application of rank 7 remaining functions: 10 now time: +1.55927e+09ns
+Rank 11: Task 300650 Finished. Duration: 37295 ns.
+At App3:mpi application of rank 11 remaining functions: 10 now time: +1.55927e+09ns
+Rank 12: Starting MoE AllToAllV Task 652 at 1.56575s
+Rank 4: Starting MoE AllToAllV Task 652 at 1.56575s
+Rank 8: Starting MoE AllToAllV Task 652 at 1.56577s
+Rank 0: Starting MoE AllToAllV Task 652 at 1.56577s
+Rank 12: Task 652 Finished. Duration: 4747761 ns.
+At App3:mpi application of rank 12 remaining functions: 8 now time: +1.5705e+09ns
+Rank 8: Task 652 Finished. Duration: 4931761 ns.
+At App3:mpi application of rank 8 remaining functions: 8 now time: +1.5707e+09ns
+Rank 4: Task 652 Finished. Duration: 5467681 ns.
+At App3:mpi application of rank 4 remaining functions: 8 now time: +1.57122e+09ns
+Rank 6: Starting MoE AllToAllV Task 201297 at 1.57413s
+Rank 2: Starting MoE AllToAllV Task 201297 at 1.57413s
+Rank 14: Starting MoE AllToAllV Task 201297 at 1.57413s
+Rank 10: Starting MoE AllToAllV Task 201297 at 1.57413s
+Rank 6: Task 201297 Finished. Duration: 34961 ns.
+At App3:mpi application of rank 6 remaining functions: 3 now time: +1.57416e+09ns
+Rank 10: Task 201297 Finished. Duration: 32241 ns.
+At App3:mpi application of rank 10 remaining functions: 3 now time: +1.57416e+09ns
+Rank 14: Task 201297 Finished. Duration: 37361 ns.
+At App3:mpi application of rank 14 remaining functions: 3 now time: +1.57417e+09ns
+Rank 2: Task 201297 Finished. Duration: 1242267 ns.
+At App3:mpi application of rank 2 remaining functions: 3 now time: +1.57537e+09ns
+Rank 0: Task 652 Finished. Duration: 9629441 ns.
+At App3:mpi application of rank 0 remaining functions: 8 now time: +1.5754e+09ns
+Rank 9: Starting MoE AllToAllV Task 105775 at 1.58355s
+Rank 5: Starting MoE AllToAllV Task 105775 at 1.58356s
+Rank 1: Starting MoE AllToAllV Task 105775 at 1.58357s
+Rank 13: Starting MoE AllToAllV Task 105775 at 1.58357s
+Rank 5: Task 105775 Finished. Duration: 32321 ns.
+At App3:mpi application of rank 5 remaining functions: 5 now time: +1.5836e+09ns
+Rank 1: Task 105775 Finished. Duration: 30481 ns.
+At App3:mpi application of rank 1 remaining functions: 5 now time: +1.5836e+09ns
+Rank 13: Task 105775 Finished. Duration: 35921 ns.
+At App3:mpi application of rank 13 remaining functions: 5 now time: +1.5836e+09ns
+Rank 9: Task 105775 Finished. Duration: 54401 ns.
+At App3:mpi application of rank 9 remaining functions: 5 now time: +1.5836e+09ns
+Rank 15: Starting MoE AllToAllV Task 300651 at 1.60247s
+Rank 7: Starting MoE AllToAllV Task 300651 at 1.60247s
+Rank 11: Starting MoE AllToAllV Task 300651 at 1.60247s
+Rank 3: Starting MoE AllToAllV Task 300651 at 1.60248s
+Rank 3: Task 300651 Finished. Duration: 19948 ns.
+At App3:mpi application of rank 3 remaining functions: 9 now time: +1.6025e+09ns
+Rank 7: Task 300651 Finished. Duration: 41135 ns.
+At App3:mpi application of rank 7 remaining functions: 9 now time: +1.60251e+09ns
+Rank 11: Task 300651 Finished. Duration: 42721 ns.
+At App3:mpi application of rank 11 remaining functions: 9 now time: +1.60251e+09ns
+Rank 15: Task 300651 Finished. Duration: 49734 ns.
+At App3:mpi application of rank 15 remaining functions: 9 now time: +1.60252e+09ns
+Rank 6: Starting MoE AllToAllV Task 201298 at 1.61182s
+Rank 10: Starting MoE AllToAllV Task 201298 at 1.61182s
+Rank 14: Starting MoE AllToAllV Task 201298 at 1.61183s
+Rank 2: Starting MoE AllToAllV Task 201298 at 1.61183s
+Rank 2: Task 201298 Finished. Duration: 25895 ns.
+At App3:mpi application of rank 2 remaining functions: 2 now time: +1.61185e+09ns
+Rank 6: Task 201298 Finished. Duration: 37841 ns.
+At App3:mpi application of rank 6 remaining functions: 2 now time: +1.61186e+09ns
+Rank 10: Task 201298 Finished. Duration: 37787 ns.
+At App3:mpi application of rank 10 remaining functions: 2 now time: +1.61186e+09ns
+Rank 14: Task 201298 Finished. Duration: 35201 ns.
+At App3:mpi application of rank 14 remaining functions: 2 now time: +1.61186e+09ns
+Rank 4: Starting MoE AllToAllV Task 653 at 1.61516s
+Rank 0: Starting MoE AllToAllV Task 653 at 1.61518s
+Rank 8: Starting MoE AllToAllV Task 653 at 1.61518s
+Rank 12: Starting MoE AllToAllV Task 653 at 1.61518s
+Rank 12: Task 653 Finished. Duration: 4882241 ns.
+At App3:mpi application of rank 12 remaining functions: 7 now time: +1.62006e+09ns
+Rank 8: Task 653 Finished. Duration: 5093681 ns.
+At App3:mpi application of rank 8 remaining functions: 7 now time: +1.62027e+09ns
+Rank 4: Task 653 Finished. Duration: 5633521 ns.
+At App3:mpi application of rank 4 remaining functions: 7 now time: +1.62079e+09ns
+Rank 5: Starting MoE AllToAllV Task 105776 at 1.62384s
+Rank 1: Starting MoE AllToAllV Task 105776 at 1.62384s
+Rank 13: Starting MoE AllToAllV Task 105776 at 1.62384s
+Rank 9: Starting MoE AllToAllV Task 105776 at 1.62384s
+Rank 9: Task 105776 Finished. Duration: 33841 ns.
+At App3:mpi application of rank 9 remaining functions: 4 now time: +1.62388e+09ns
+Rank 5: Task 105776 Finished. Duration: 40801 ns.
+At App3:mpi application of rank 5 remaining functions: 4 now time: +1.62388e+09ns
+Rank 13: Task 105776 Finished. Duration: 35361 ns.
+At App3:mpi application of rank 13 remaining functions: 4 now time: +1.62388e+09ns
+Rank 1: Task 105776 Finished. Duration: 945975 ns.
+At App3:mpi application of rank 1 remaining functions: 4 now time: +1.62478e+09ns
+Rank 0: Task 653 Finished. Duration: 9630881 ns.
+At App3:mpi application of rank 0 remaining functions: 7 now time: +1.62481e+09ns
+Rank 6: Starting MoE AllToAllV Task 201299 at 1.64296s
+Rank 10: Starting MoE AllToAllV Task 201299 at 1.64296s
+Rank 14: Starting MoE AllToAllV Task 201299 at 1.64296s
+Rank 2: Starting MoE AllToAllV Task 201299 at 1.64297s
+Rank 2: Task 201299 Finished. Duration: 17841 ns.
+At App3:mpi application of rank 2 remaining functions: 1 now time: +1.64299e+09ns
+Rank 6: Task 201299 Finished. Duration: 38161 ns.
+At App3:mpi application of rank 6 remaining functions: 1 now time: +1.643e+09ns
+Rank 10: Task 201299 Finished. Duration: 41415 ns.
+At App3:mpi application of rank 10 remaining functions: 1 now time: +1.643e+09ns
+Rank 14: Task 201299 Finished. Duration: 44161 ns.
+At App3:mpi application of rank 14 remaining functions: 1 now time: +1.643e+09ns
+Rank 7: Starting MoE AllToAllV Task 300652 at 1.66103s
+Rank 11: Starting MoE AllToAllV Task 300652 at 1.66103s
+Rank 15: Starting MoE AllToAllV Task 300652 at 1.66104s
+Rank 3: Starting MoE AllToAllV Task 300652 at 1.66104s
+Rank 3: Task 300652 Finished. Duration: 21174 ns.
+At App3:mpi application of rank 3 remaining functions: 8 now time: +1.66107e+09ns
+Rank 7: Task 300652 Finished. Duration: 43761 ns.
+At App3:mpi application of rank 7 remaining functions: 8 now time: +1.66107e+09ns
+Rank 11: Task 300652 Finished. Duration: 43041 ns.
+At App3:mpi application of rank 11 remaining functions: 8 now time: +1.66107e+09ns
+Rank 15: Task 300652 Finished. Duration: 39948 ns.
+At App3:mpi application of rank 15 remaining functions: 8 now time: +1.66108e+09ns
+Rank 9: Starting MoE AllToAllV Task 105777 at 1.66288s
+Rank 5: Starting MoE AllToAllV Task 105777 at 1.66288s
+Rank 13: Starting MoE AllToAllV Task 105777 at 1.66288s
+Rank 1: Starting MoE AllToAllV Task 105777 at 1.66288s
+Rank 1: Task 105777 Finished. Duration: 32107 ns.
+At App3:mpi application of rank 1 remaining functions: 3 now time: +1.66292e+09ns
+Rank 5: Task 105777 Finished. Duration: 38535 ns.
+At App3:mpi application of rank 5 remaining functions: 3 now time: +1.66292e+09ns
+Rank 9: Task 105777 Finished. Duration: 39281 ns.
+At App3:mpi application of rank 9 remaining functions: 3 now time: +1.66292e+09ns
+Rank 13: Task 105777 Finished. Duration: 41841 ns.
+At App3:mpi application of rank 13 remaining functions: 3 now time: +1.66292e+09ns
+Rank 8: Starting MoE AllToAllV Task 654 at 1.67748s
+Rank 4: Starting MoE AllToAllV Task 654 at 1.67748s
+Rank 12: Starting MoE AllToAllV Task 654 at 1.67749s
+Rank 0: Starting MoE AllToAllV Task 654 at 1.6775s
+Rank 12: Task 654 Finished. Duration: 5099601 ns.
+At App3:mpi application of rank 12 remaining functions: 6 now time: +1.68259e+09ns
+Rank 8: Task 654 Finished. Duration: 5286721 ns.
+At App3:mpi application of rank 8 remaining functions: 6 now time: +1.68277e+09ns
+Rank 4: Task 654 Finished. Duration: 5763601 ns.
+At App3:mpi application of rank 4 remaining functions: 6 now time: +1.68325e+09ns
+Rank 0: Task 654 Finished. Duration: 9630401 ns.
+At App3:mpi application of rank 0 remaining functions: 6 now time: +1.68713e+09ns
+Rank 1: Starting MoE AllToAllV Task 105778 at 1.7022s
+Rank 5: Starting MoE AllToAllV Task 105778 at 1.7022s
+Rank 9: Starting MoE AllToAllV Task 105778 at 1.7022s
+Rank 13: Starting MoE AllToAllV Task 105778 at 1.7022s
+Rank 5: Task 105778 Finished. Duration: 34907 ns.
+At App3:mpi application of rank 5 remaining functions: 2 now time: +1.70223e+09ns
+Rank 9: Task 105778 Finished. Duration: 37921 ns.
+At App3:mpi application of rank 9 remaining functions: 2 now time: +1.70223e+09ns
+Rank 1: Task 105778 Finished. Duration: 39255 ns.
+At App3:mpi application of rank 1 remaining functions: 2 now time: +1.70223e+09ns
+Rank 13: Task 105778 Finished. Duration: 36241 ns.
+At App3:mpi application of rank 13 remaining functions: 2 now time: +1.70224e+09ns
+Rank 7: Starting MoE AllToAllV Task 300653 at 1.70895s
+Rank 11: Starting MoE AllToAllV Task 300653 at 1.70895s
+Rank 15: Starting MoE AllToAllV Task 300653 at 1.70896s
+Rank 3: Starting MoE AllToAllV Task 300653 at 1.70897s
+Rank 3: Task 300653 Finished. Duration: 23761 ns.
+At App3:mpi application of rank 3 remaining functions: 7 now time: +1.70899e+09ns
+Rank 7: Task 300653 Finished. Duration: 43041 ns.
+At App3:mpi application of rank 7 remaining functions: 7 now time: +1.70899e+09ns
+Rank 11: Task 300653 Finished. Duration: 39948 ns.
+At App3:mpi application of rank 11 remaining functions: 7 now time: +1.70899e+09ns
+Rank 15: Task 300653 Finished. Duration: 41174 ns.
+At App3:mpi application of rank 15 remaining functions: 7 now time: +1.709e+09ns
+Rank 12: Starting MoE AllToAllV Task 655 at 1.72414s
+Rank 0: Starting MoE AllToAllV Task 655 at 1.72416s
+Rank 4: Starting MoE AllToAllV Task 655 at 1.72416s
+Rank 8: Starting MoE AllToAllV Task 655 at 1.72416s
+Rank 12: Task 655 Finished. Duration: 5269521 ns.
+At App3:mpi application of rank 12 remaining functions: 5 now time: +1.72941e+09ns
+Rank 8: Task 655 Finished. Duration: 5401201 ns.
+At App3:mpi application of rank 8 remaining functions: 5 now time: +1.72956e+09ns
+Rank 4: Task 655 Finished. Duration: 5889921 ns.
+At App3:mpi application of rank 4 remaining functions: 5 now time: +1.73005e+09ns
+Rank 0: Task 655 Finished. Duration: 9628321 ns.
+At App3:mpi application of rank 0 remaining functions: 5 now time: +1.73379e+09ns
+Rank 5: Starting MoE AllToAllV Task 105779 at 1.73929s
+Rank 9: Starting MoE AllToAllV Task 105779 at 1.73929s
+Rank 1: Starting MoE AllToAllV Task 105779 at 1.73929s
+Rank 13: Starting MoE AllToAllV Task 105779 at 1.7393s
+Rank 5: Task 105779 Finished. Duration: 37921 ns.
+At App3:mpi application of rank 5 remaining functions: 1 now time: +1.73933e+09ns
+Rank 1: Task 105779 Finished. Duration: 34907 ns.
+At App3:mpi application of rank 1 remaining functions: 1 now time: +1.73933e+09ns
+Rank 9: Task 105779 Finished. Duration: 36241 ns.
+At App3:mpi application of rank 9 remaining functions: 1 now time: +1.73933e+09ns
+Rank 13: Task 105779 Finished. Duration: 37681 ns.
+At App3:mpi application of rank 13 remaining functions: 1 now time: +1.73933e+09ns
+Rank 3: Starting MoE AllToAllV Task 300654 at 1.77455s
+Rank 7: Starting MoE AllToAllV Task 300654 at 1.77455s
+Rank 11: Starting MoE AllToAllV Task 300654 at 1.77455s
+Rank 15: Starting MoE AllToAllV Task 300654 at 1.77456s
+Rank 7: Task 300654 Finished. Duration: 35068 ns.
+At App3:mpi application of rank 7 remaining functions: 6 now time: +1.77459e+09ns
+Rank 11: Task 300654 Finished. Duration: 36534 ns.
+At App3:mpi application of rank 11 remaining functions: 6 now time: +1.77459e+09ns
+Rank 3: Task 300654 Finished. Duration: 43041 ns.
+At App3:mpi application of rank 3 remaining functions: 6 now time: +1.77459e+09ns
+Rank 15: Task 300654 Finished. Duration: 35201 ns.
+At App3:mpi application of rank 15 remaining functions: 6 now time: +1.77459e+09ns
+Rank 0: Starting MoE AllToAllV Task 656 at 1.79224s
+Rank 4: Starting MoE AllToAllV Task 656 at 1.79224s
+Rank 12: Starting MoE AllToAllV Task 656 at 1.79224s
+Rank 8: Starting MoE AllToAllV Task 656 at 1.79225s
+Rank 12: Task 656 Finished. Duration: 5355601 ns.
+At App3:mpi application of rank 12 remaining functions: 4 now time: +1.7976e+09ns
+Rank 8: Task 656 Finished. Duration: 5519521 ns.
+At App3:mpi application of rank 8 remaining functions: 4 now time: +1.79777e+09ns
+Rank 4: Task 656 Finished. Duration: 6010881 ns.
+At App3:mpi application of rank 4 remaining functions: 4 now time: +1.79825e+09ns
+Rank 0: Task 656 Finished. Duration: 9527361 ns.
+At App3:mpi application of rank 0 remaining functions: 4 now time: +1.80177e+09ns
+Rank 7: Starting MoE AllToAllV Task 300655 at 1.81707s
+Rank 11: Starting MoE AllToAllV Task 300655 at 1.81707s
+Rank 3: Starting MoE AllToAllV Task 300655 at 1.81707s
+Rank 15: Starting MoE AllToAllV Task 300655 at 1.81707s
+Rank 7: Task 300655 Finished. Duration: 36534 ns.
+At App3:mpi application of rank 7 remaining functions: 5 now time: +1.81711e+09ns
+Rank 3: Task 300655 Finished. Duration: 35068 ns.
+At App3:mpi application of rank 3 remaining functions: 5 now time: +1.81711e+09ns
+Rank 11: Task 300655 Finished. Duration: 36588 ns.
+At App3:mpi application of rank 11 remaining functions: 5 now time: +1.81711e+09ns
+Rank 15: Task 300655 Finished. Duration: 39628 ns.
+At App3:mpi application of rank 15 remaining functions: 5 now time: +1.81711e+09ns
+Rank 8: Starting MoE AllToAllV Task 657 at 1.84098s
+Rank 4: Starting MoE AllToAllV Task 657 at 1.84098s
+Rank 12: Starting MoE AllToAllV Task 657 at 1.84099s
+Rank 0: Starting MoE AllToAllV Task 657 at 1.841s
+Rank 12: Task 657 Finished. Duration: 5359521 ns.
+At App3:mpi application of rank 12 remaining functions: 3 now time: +1.84635e+09ns
+Rank 8: Task 657 Finished. Duration: 5544241 ns.
+At App3:mpi application of rank 8 remaining functions: 3 now time: +1.84653e+09ns
+Rank 4: Task 657 Finished. Duration: 6022561 ns.
+At App3:mpi application of rank 4 remaining functions: 3 now time: +1.84701e+09ns
+Rank 0: Task 657 Finished. Duration: 9523761 ns.
+At App3:mpi application of rank 0 remaining functions: 3 now time: +1.85052e+09ns
+Rank 7: Starting MoE AllToAllV Task 300656 at 1.87141s
+Rank 3: Starting MoE AllToAllV Task 300656 at 1.87141s
+Rank 11: Starting MoE AllToAllV Task 300656 at 1.87141s
+Rank 15: Starting MoE AllToAllV Task 300656 at 1.87141s
+Rank 7: Task 300656 Finished. Duration: 36588 ns.
+At App3:mpi application of rank 7 remaining functions: 4 now time: +1.87144e+09ns
+Rank 3: Task 300656 Finished. Duration: 36534 ns.
+At App3:mpi application of rank 3 remaining functions: 4 now time: +1.87144e+09ns
+Rank 11: Task 300656 Finished. Duration: 38241 ns.
+At App3:mpi application of rank 11 remaining functions: 4 now time: +1.87145e+09ns
+Rank 15: Task 300656 Finished. Duration: 36161 ns.
+At App3:mpi application of rank 15 remaining functions: 4 now time: +1.87145e+09ns
+Rank 7: Starting MoE AllToAllV Task 300657 at 1.91398s
+Rank 3: Starting MoE AllToAllV Task 300657 at 1.91398s
+Rank 11: Starting MoE AllToAllV Task 300657 at 1.91399s
+Rank 15: Starting MoE AllToAllV Task 300657 at 1.91399s
+Rank 3: Task 300657 Finished. Duration: 36588 ns.
+At App3:mpi application of rank 3 remaining functions: 3 now time: +1.91402e+09ns
+Rank 7: Task 300657 Finished. Duration: 38241 ns.
+At App3:mpi application of rank 7 remaining functions: 3 now time: +1.91402e+09ns
+Rank 11: Task 300657 Finished. Duration: 36161 ns.
+At App3:mpi application of rank 11 remaining functions: 3 now time: +1.91402e+09ns
+Rank 15: Task 300657 Finished. Duration: 36534 ns.
+At App3:mpi application of rank 15 remaining functions: 3 now time: +1.91403e+09ns
+Rank 0: Starting MoE AllToAllV Task 658 at 1.92565s
+Rank 4: Starting MoE AllToAllV Task 658 at 1.92566s
+Rank 8: Starting MoE AllToAllV Task 658 at 1.92566s
+Rank 12: Starting MoE AllToAllV Task 658 at 1.92566s
+Rank 12: Task 658 Finished. Duration: 5349601 ns.
+At App3:mpi application of rank 12 remaining functions: 2 now time: +1.93101e+09ns
+Rank 8: Task 658 Finished. Duration: 5530881 ns.
+At App3:mpi application of rank 8 remaining functions: 2 now time: +1.93119e+09ns
+Rank 4: Task 658 Finished. Duration: 6011281 ns.
+At App3:mpi application of rank 4 remaining functions: 2 now time: +1.93167e+09ns
+Rank 0: Task 658 Finished. Duration: 9529681 ns.
+At App3:mpi application of rank 0 remaining functions: 2 now time: +1.93518e+09ns
+Rank 3: Starting MoE AllToAllV Task 300658 at 1.97356s
+Rank 7: Starting MoE AllToAllV Task 300658 at 1.97356s
+Rank 11: Starting MoE AllToAllV Task 300658 at 1.97356s
+Rank 15: Starting MoE AllToAllV Task 300658 at 1.97357s
+Rank 7: Task 300658 Finished. Duration: 36161 ns.
+At App3:mpi application of rank 7 remaining functions: 2 now time: +1.9736e+09ns
+Rank 3: Task 300658 Finished. Duration: 38241 ns.
+At App3:mpi application of rank 3 remaining functions: 2 now time: +1.9736e+09ns
+Rank 11: Task 300658 Finished. Duration: 36534 ns.
+At App3:mpi application of rank 11 remaining functions: 2 now time: +1.9736e+09ns
+Rank 15: Task 300658 Finished. Duration: 36588 ns.
+At App3:mpi application of rank 15 remaining functions: 2 now time: +1.9736e+09ns
+Rank 0: Starting MoE AllToAllV Task 659 at 1.97968s
+Rank 4: Starting MoE AllToAllV Task 659 at 1.97969s
+Rank 8: Starting MoE AllToAllV Task 659 at 1.97969s
+Rank 12: Starting MoE AllToAllV Task 659 at 1.97969s
+Rank 12: Task 659 Finished. Duration: 5351281 ns.
+At App3:mpi application of rank 12 remaining functions: 1 now time: +1.98504e+09ns
+Rank 8: Task 659 Finished. Duration: 5529601 ns.
+At App3:mpi application of rank 8 remaining functions: 1 now time: +1.98522e+09ns
+Rank 4: Task 659 Finished. Duration: 6010881 ns.
+At App3:mpi application of rank 4 remaining functions: 1 now time: +1.9857e+09ns
+Rank 0: Task 659 Finished. Duration: 9531281 ns.
+At App3:mpi application of rank 0 remaining functions: 1 now time: +1.98922e+09ns
+Rank 7: Starting MoE AllToAllV Task 300659 at 2.01632s
+Rank 3: Starting MoE AllToAllV Task 300659 at 2.01632s
+Rank 11: Starting MoE AllToAllV Task 300659 at 2.01632s
+Rank 15: Starting MoE AllToAllV Task 300659 at 2.01632s
+Rank 7: Task 300659 Finished. Duration: 36534 ns.
+At App3:mpi application of rank 7 remaining functions: 1 now time: +2.01635e+09ns
+Rank 3: Task 300659 Finished. Duration: 36161 ns.
+At App3:mpi application of rank 3 remaining functions: 1 now time: +2.01636e+09ns
+Rank 11: Task 300659 Finished. Duration: 36588 ns.
+At App3:mpi application of rank 11 remaining functions: 1 now time: +2.01636e+09ns
+Rank 15: Task 300659 Finished. Duration: 38241 ns.
+At App3:mpi application of rank 15 remaining functions: 1 now time: +2.01636e+09ns
+At App3:mpi application of rank 15 remaining functions: 0 now time: +2.01639e+09ns
+At App3:mpi application of rank 15 start time: +0ns, end time: +2.01639e+09ns
+All nodes reached completion barrier. Terminating the background event queue early!
+At App3:mpi application of rank 0 remaining functions: 0 now time: +2.0164e+09ns
+At App3:mpi application of rank 0 start time: +0ns, end time: +2.0164e+09ns
+
+================================================================================
+[SIMULATION RUN CONTEXT]
+  - Scheduler Mode  : ideal
+  - Link Bandwidth  : 100000000bps
+  - Total Nodes     : 16
+  - Total Tasks     : 80
+================================================================================
+TaskID    ReadyTime(s)   FinishTime(s)  JCT(ms)        Throughput(Gbps)
+--------------------------------------------------------------------------------
+640       1.0000         1.0102         10.1522        0.0002
+641       1.0458         1.0555         9.6574         0.0002
+642       1.0919         1.1015         9.6678         0.0002
+643       1.1299         1.1395         9.6440         0.0002
+644       1.1733         1.1829         9.6617         0.0002
+645       1.2188         1.2285         9.6533         0.0002
+646       1.2718         1.2814         9.6498         0.0002
+647       1.3156         1.3253         9.6614         0.0002
+648       1.3678         1.3775         9.6429         0.0002
+649       1.4104         1.4200         9.6498         0.0002
+650       1.4639         1.4736         9.6611         0.0002
+651       1.5047         1.5143         9.6726         0.0002
+652       1.5657         1.5754         9.6462         0.0002
+653       1.6152         1.6248         9.6464         0.0002
+654       1.6775         1.6871         9.6484         0.0002
+655       1.7241         1.7338         9.6475         0.0002
+656       1.7922         1.8018         9.5310         0.0002
+657       1.8410         1.8505         9.5385         0.0002
+658       1.9256         1.9352         9.5343         0.0002
+659       1.9797         1.9892         9.5388         0.0002
+105760    1.0000         1.0001         0.0526         0.0000
+105761    1.0411         1.0411         0.0523         0.0000
+105762    1.0815         1.0815         0.0467         0.0000
+105763    1.1204         1.1205         0.0510         0.0000
+105764    1.1617         1.1618         0.0494         0.0000
+105765    1.2029         1.2029         0.0511         0.0000
+105766    1.2426         1.2426         0.0478         0.0000
+105767    1.2786         1.2814         2.8068         0.0000
+105768    1.3163         1.3177         1.4116         0.0000
+105769    1.3530         1.3531         0.0502         0.0000
+105770    1.3928         1.3928         0.0533         0.0000
+105771    1.4301         1.4301         0.0441         0.0000
+105772    1.4693         1.4735         4.1773         0.0000
+105773    1.5061         1.5092         3.0507         0.0000
+105774    1.5443         1.5443         0.0511         0.0000
+105775    1.5835         1.5836         0.0557         0.0000
+105776    1.6238         1.6248         0.9528         0.0000
+105777    1.6629         1.6629         0.0472         0.0000
+105778    1.7022         1.7022         0.0480         0.0000
+105779    1.7393         1.7393         0.0564         0.0000
+201280    1.0000         1.0001         0.0695         0.0000
+201281    1.0338         1.0338         0.0545         0.0000
+201282    1.0680         1.0680         0.0444         0.0000
+201283    1.0923         1.0933         0.9449         0.0000
+201284    1.1217         1.1218         0.0485         0.0000
+201285    1.1472         1.1473         0.0503         0.0000
+201286    1.1778         1.1806         2.8058         0.0000
+201287    1.2099         1.2100         0.0511         0.0000
+201288    1.2540         1.2541         0.0476         0.0000
+201289    1.2882         1.2883         0.0481         0.0000
+201290    1.3297         1.3297         0.0448         0.0000
+201291    1.3659         1.3659         0.0516         0.0000
+201292    1.4048         1.4049         0.0477         0.0000
+201293    1.4394         1.4394         0.0418         0.0000
+201294    1.4859         1.4859         0.0460         0.0000
+201295    1.5120         1.5143         2.3035         0.0000
+201296    1.5444         1.5445         0.0515         0.0000
+201297    1.5741         1.5754         1.2466         0.0000
+201298    1.6118         1.6119         0.0469Simulation Finished.
+         0.0000
+201299    1.6430         1.6430         0.0508         0.0000
+300640    1.0000         1.0001         0.0751         0.0000
+300641    1.0510         1.0536         2.5933         0.0000
+300642    1.1073         1.1074         0.0517         0.0000
+300643    1.1638         1.1638         0.0525         0.0000
+300644    1.2371         1.2371         0.0486         0.0000
+300645    1.2888         1.2889         0.0538         0.0000
+300646    1.3620         1.3621         0.0572         0.0000
+300647    1.4084         1.4085         0.0488         0.0000
+300648    1.4735         1.4735         0.0892         0.0000
+300649    1.5117         1.5143         2.6017         0.0000
+300650    1.5592         1.5593         0.0470         0.0000
+300651    1.6025         1.6025         0.0500         0.0000
+300652    1.6610         1.6611         0.0513         0.0000
+300653    1.7090         1.7090         0.0472         0.0000
+300654    1.7745         1.7746         0.0497         0.0000
+300655    1.8171         1.8171         0.0570         0.0000
+300656    1.8714         1.8714         0.0488         0.0000
+300657    1.9140         1.9140         0.0494         0.0000
+300658    1.9735         1.9736         0.0525         0.0000
+300659    2.0163         2.0164         0.0552         0.0000
+================================================================================
+== [PERFORMANCE SUMMARY] ==
+Average JCT     : 2.7567 ms
+p99 JCT         : 10.1522 ms
+Max JCT         : 10.1522 ms
+================================================================================
+

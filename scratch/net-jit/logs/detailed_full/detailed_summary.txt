@@ -1,0 +1,7 @@
+Metric Definitions:
+  Avg/Max Flow FCT: End-to-End Latency of single flows (network perspective, excludes scheduling wait)
+  Avg/Max Rank Task Duration: Application-level Task Interval (includes some waiting if blocked on receive)
+  Avg/Max Group Task Duration: Duration from first Rank starting to last Rank finishing within a Job Group (Wait + Exec + Sync)
+  Avg Pkt Delay: Basic packet switching delay (from FlowMonitor)
+  Makespan: Time when the last flow finished (global completion)
+

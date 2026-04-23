@@ -1,0 +1,12 @@
+build/
+.git/
+.vscode/
+.idea/
+cmake-build-debug/
+scratch/net-jit/logs/
+__pycache__/
+*.o
+*.so
+*.pyc
+*.lock
+.DS_Store

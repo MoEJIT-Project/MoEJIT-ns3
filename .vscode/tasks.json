@@ -1,0 +1,55 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build varys-test",
+            "type": "shell",
+            "command": "cmake --build build --target varys-test -j 14",
+            "group": "build"
+        },
+        {
+            "label": "Build alltoallv-test",
+            "type": "shell",
+            "command": "cmake --build build --target alltoallv-test -j 14",
+            "group": "build"
+        },
+        {
+            "label": "Build fattree-simple-alltoallv-test",
+            "type": "shell",
+            "command": "cmake --build build --target fattree-simple-alltoallv-test -j 14",
+            "group": "build"
+        },
+        {
+            "label": "Build fattree-moe-test",
+            "type": "shell",
+            "command": "cmake --build build --target fattree-moe-test -j 14",
+            "group": "build"
+        },
+        {
+            "label": "Build fattree-moe-scheduling-test",
+            "type": "shell",
+            "command": "cmake --build build --target fattree-moe-scheduling-test -j 14",
+            "group": "build"
+        },
+        {
+            "label": "Build",
+            "type": "shell",
+            "command": "./ns3",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "Run tests",
+            "type": "shell",
+            "command": "./test.py",
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            }
+        }
+    ]
+}
