@@ -26,8 +26,8 @@
 ns-3 is a free open source project aiming to build a discrete-event
 network simulator targeted for simulation research and education.
 
-### NetJIT Project Additions
-This repository contains the **NetJIT (Network Just-In-Time)** research project, which focuses on MoE (Mixture-of-Experts) training optimization.
+### MoEJIT Project Additions
+This repository contains the **MoEJIT (MoE Just-In-Time)** research project, which focuses on MoE (Mixture-of-Experts) training optimization.
 
 #### 1. Environment Setup (Docker)
 For a quick and isolated setup (especially on Windows), we provide a Docker environment:
@@ -39,7 +39,7 @@ For a quick and isolated setup (especially on Windows), we provide a Docker envi
 *   **Topology**: Primarily focused on **Spine-Leaf** structures for MoE workload testing.
 
 #### 3. MoE Training Traces
-*   **Directory**: `scratch/net-jit/moe-traces/`
+*   **Directory**: `scratch/moe-jit/moe-traces/`
 *   **Description**: This directory contains `.jsonl` trace files extracted from real MoE training sessions. These traces drive the `AllToAllV` traffic patterns in our simulations.
 
 This README excerpts some details from a more extensive
